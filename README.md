@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Ilham
 
-<!--
-**ianmen10/ianmen10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+────────────────────────────────
 
-Here are some ideas to get you started:
+🚀 AI Engineer Enthusiast
+💻 Backend Developer
+🎓 Informatics Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ Tech Stack
+🐍 Python
+⚡ FastAPI
+🐘 PostgreSQL
+🐳 Docker
+☁ Git
+🐙 GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+🔥 Contribution Streak
+
+📈 Activity Graph
+
+🏆 GitHub Trophy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+🤖 AI Chatbot Platform
+📚 PBL Management System
+🌐 Portfolio Website
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Connect With Me
