@@ -1,39 +1,29 @@
-👋 Hi, I'm Ilham
+# Hi, I'm Ilham 👋
 
-────────────────────────────────
+🎓 Informatics Engineering Student at Politeknik Negeri Malang
 
-🚀 AI Engineer Enthusiast
-💻 Backend Developer
-🎓 Informatics Student
+💻 Interested in Backend Development & Artificial Intelligence.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🚀 Currently Learning
 
-⚡ Tech Stack
-🐍 Python
-⚡ FastAPI
-🐘 PostgreSQL
-🐳 Docker
-☁ Git
-🐙 GitHub
+- FastAPI
+- Python
+- PostgreSQL
+- Docker
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🛠 Tech Stack
 
-📊 GitHub Stats
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-🔥 Contribution Streak
+## 📊 GitHub Stats
 
-📈 Activity Graph
+![Stats](https://github-readme-stats.vercel.app/api?username=ianmen10&show_icons=true&theme=tokyonight&hide_border=true)
 
-🏆 GitHub Trophy
+## 📫 Contact
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 Featured Projects
-
-🤖 AI Chatbot Platform
-📚 PBL Management System
-🌐 Portfolio Website
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📫 Connect With Me
+- Instagram: **@ilhmdharm**
+- Email: **your@email.com**
