@@ -26,4 +26,4 @@
 ## 📫 Contact
 
 - Instagram: **@ilhmdharm**
-- Email: **your@email.com**
+- Email: **meniandol@gmail.com**
