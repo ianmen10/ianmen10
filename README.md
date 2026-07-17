@@ -13,13 +13,6 @@
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-## 🛠 Tech Stack
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,postgres,mysql,docker,git,github,vscode,html,css,js,typescript,nodejs,react&perline=8" />
 </p>
@@ -32,6 +25,10 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmen10&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ianmen10&show_icons=true&theme=tokyonight)
+
 ## 📫 Connect with Me
 
 <p align="left">
@@ -43,15 +40,4 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
 </p>
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ianmen10&show_icons=true&theme=tokyonight)
-
-## 📫 Contact
-
-- Instagram: **@ilhmdharm**
-- Email: **meniandol@gmail.com**
