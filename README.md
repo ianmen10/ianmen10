@@ -31,9 +31,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Enthusiast;FastAPI+Developer;Always+Learning+New+Things" />
-  </a>
+<img src="https://streak-stats.demolab.com?user=ianmen10&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ianmen10&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📫 Connect with Me
