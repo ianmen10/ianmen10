@@ -32,10 +32,21 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmen10&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📈 Contribution Graph
+## 📫 Connect with Me
 
-[![Ilham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ianmen10&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+<a href="https://instagram.com/ilhmdharm">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 
+<a href="mailto:meniandol@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ianmen10&show_icons=true&theme=tokyonight)
