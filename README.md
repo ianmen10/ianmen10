@@ -1,8 +1,12 @@
-# Hi, I'm Ilham 👋
+Hi, I'm Ilham 👋
 
-🎓 Informatics Engineering Student at Politeknik Negeri Malang
+Backend Developer • AI Enthusiast • Informatics Engineering Student
 
-💻 Interested in Backend Development & Artificial Intelligence.
+Building backend applications and exploring Artificial Intelligence.
+
+──────────────────────────────
+
+🚀 Currently Learning
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -28,6 +32,12 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianmen10&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianmen10&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ianmen10&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📫 Connect with Me
