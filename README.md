@@ -1,6 +1,6 @@
 # Hi, I'm Ilham 👋
 
-🎓 Informatics Engineering Student at Politeknik Negeri Malang
+🎓 Informatics Engineering Student at state polytechnic of malang
 
 💻 Passionate about backend development and Artificial Intelligence.
 
