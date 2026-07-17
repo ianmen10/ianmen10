@@ -13,8 +13,6 @@ Building backend applications and exploring Artificial Intelligence.
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Enthusiast;FastAPI+Developer;Always+Learning+New+Things" />
   </a>
 </p>
-## 🚀 Currently Learning
-
 - FastAPI
 - Python
 - PostgreSQL
@@ -37,7 +35,7 @@ Building backend applications and exploring Artificial Intelligence.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ianmen10&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ianmen10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ## 📫 Connect with Me
