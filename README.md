@@ -24,10 +24,6 @@
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianmen10&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ianmen10&show_icons=true&theme=tokyonight)
-
 ## 📫 Connect with Me
 
 <p align="left">
