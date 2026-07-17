@@ -18,11 +18,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,vscode,react,html,css,js,ts,laravel,php,nodejs,mongodb&perline=8" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,postgres,mysql,docker,git,github,vscode,html,css,js,typescript,nodejs,react&perline=8" />
 </p>
 ## 📊 GitHub Stats
 
