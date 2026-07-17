@@ -32,12 +32,6 @@ Building backend applications and exploring Artificial Intelligence.
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianmen10&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ianmen10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ## 📫 Connect with Me
 
 <p align="left">
