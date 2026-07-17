@@ -32,6 +32,10 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmen10&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 📈 Contribution Graph
+
+[![Ilham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ianmen10&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ianmen10&show_icons=true&theme=tokyonight)
