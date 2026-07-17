@@ -23,6 +23,15 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,postgres,mysql,docker,git,github,vscode,html,css,js,typescript,nodejs,react&perline=8" />
 </p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ianmen10&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmen10&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ianmen10&show_icons=true&theme=tokyonight)
