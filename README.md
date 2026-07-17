@@ -1,23 +1,25 @@
-Hi, I'm Ilham 👋
+# Hi, I'm Ilham 👋
 
-Backend Developer • AI Enthusiast • Informatics Engineering Student
+🎓 Informatics Engineering Student at Politeknik Negeri Malang
 
-Building backend applications and exploring Artificial Intelligence.
+💻 Passionate about backend development and Artificial Intelligence.
 
-──────────────────────────────
+🚀 Currently building scalable web applications with FastAPI, Laravel, and PostgreSQL.
+
+─────────────────────────────────────────────────────────────────────────────────────────
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Informatics+Engineering+Student;Backend+Developer;Building+AI-powered+Applications;FastAPI+%7C+Python+%7C+PostgreSQL;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+─────────────────────────────────────────────────────────────────────────────────────────
 
 🚀 Currently Learning
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Enthusiast;FastAPI+Developer;Always+Learning+New+Things" />
-  </a>
-</p>
-- FastAPI
-- Python
-- PostgreSQL
-- Docker
-
+- ⚡ FastAPI
+- 🐍 Python
+- 🐘 PostgreSQL
+- 🐳 Docker
 
 ## 🛠 Tech Stack
 
